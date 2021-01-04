@@ -116,8 +116,15 @@ export const Presentacion = () => {
 							<a href="https://www.linkedin.com/in/aaron-llanos-soto-60b7137a/" target="_blank" rel="noreferrer">
 								<i className="fab fa-linkedin"></i>
 							</a>
+							<a href="mailto:aaron.lls.dev@gmail.com" target="_blank" rel="noreferrer">
+								<i className="fas fa-envelope"></i>
+							</a>
+							<a href="https://wa.me/5215525151137?text=%C2%A1Hola%21%20Visite%20tu%20portafolio%20web." target="_blank" rel="noreferrer">
+								<i className="fab fa-whatsapp"></i>
+							</a>
 						</div>
-						<a href="https://drive.google.com/file/d/1nkG29bkgzdsDfycw41Mynr-j5LFHzZj-/view?usp=sharing" target="_blank" rel="noreferrer">
+						{/* <a href="https://drive.google.com/file/d/1nkG29bkgzdsDfycw41Mynr-j5LFHzZj-/view?usp=sharing" target="_blank" rel="noreferrer"> */}
+						<a href="/assets/cv.pdf" target="_blank" rel="noreferrer">
 							<button>
 								Descargar CV
 							</button>
