@@ -124,7 +124,7 @@ export const Presentacion = () => {
 							</a>
 						</div>
 						{/* <a href="https://drive.google.com/file/d/1nkG29bkgzdsDfycw41Mynr-j5LFHzZj-/view?usp=sharing" target="_blank" rel="noreferrer"> */}
-						<a href="/assets/cv.pdf" target="_blank" rel="noreferrer">
+						<a href="/portafolio/assets/cv.pdf" target="_blank" rel="noreferrer">
 							<button>
 								Descargar CV
 							</button>
